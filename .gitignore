@@ -12,3 +12,13 @@ desktop.ini
 # Editor and IDE files
 .idea/
 .vscode/
+
+# Lab secrets and generated files
+config/ftp.env
+*.csv
+*.log
+ftp_report_*.txt
+.venv/
+web/flask_app/.venv/
+__pycache__/
+.git-publish/
